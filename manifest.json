@@ -1,0 +1,23 @@
+{
+  "name": "Dont Get Distracted",
+  "description": "Override the new tab page with DGD",
+  "version": "1.0",
+  "browser_action" : {
+  	"default_popup" : "demo.html",
+  	"default_icon" : "dont.png"
+  },
+  "chrome_url_overrides": {
+    "newtab": "redirect.html"    
+  },
+  "permissions": [
+    "storage"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "content_scripts": [{
+     "js": [ "demo.js"],
+     "matches": ["http://*/*", "https://*/*"]
+   }],
+  "manifest_version": 2
+}
