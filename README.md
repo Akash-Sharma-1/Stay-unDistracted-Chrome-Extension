@@ -17,11 +17,10 @@ Now Stay Protected from Distractions with "passion, vision and aggression" via t
 - After installing the extension, your new-tab page should be like the default chrome based new-tab page.
 - So, you got to answer click on the extension and observe the popup menu.
 - If its orange like this -> your probably in distraction zone and you would have to enable the protection by clicking the checkbox.
- ![](Screenshots/unlocked.png | width=50)
- 
+ <img src="Screenshots/unlocked.png" width="380" height="300">
+
 - Now after reopening the extension popup, you must have a green window with a padded lock indicating that the extension is in action :)
- 
-  ![](Screenshots/locked.png | width=50)
+  <img src="Screenshots/locked.png" width="380" height="300">
 
 - Now, will reading or studying if you wanna open new tab (and distracted), you will be thwarted by an interesting video 😂
 
