@@ -16,7 +16,7 @@ Now Stay Protected from Distractions with "passion, vision and aggression" via t
 ## How does this extension works?
 - After installing the extension, your new-tab page should be like the default chrome based new-tab page.
 - **Note**: If you see an alert prompt from chrome regarding override of the new tab - Click "*Keep It*" (Requires one-time permission only :)
-- So, you got to answer click on the extension and observe the popup menu.
+- So now, you gotta click on the extension and observe the popup menu.
 - If its orange like this -> your probably in distraction zone and you would have to enable the protection by clicking the checkbox.
   
   <img src="Screenshots/unlocked.png" width="250" height="200">
