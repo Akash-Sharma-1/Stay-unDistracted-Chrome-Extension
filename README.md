@@ -10,7 +10,7 @@ Now Stay Protected from Distractions with "passion, vision and aggression" via t
 - Switch on the "Developer Mode" toggle on the top right corner. 
 - Click on "Load Unpacked"
 - Select this chrome extension folder
-- Now view your set of extensions and pin this extension to be in handy !
+- Now view your set of extensions and pin this extension to use in handy !
 
 
 ## How does this extension works?
