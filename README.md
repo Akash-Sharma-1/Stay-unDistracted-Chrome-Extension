@@ -35,7 +35,7 @@ Now Stay Protected from Distractions with "passion, vision and aggression" via t
    - Reload the extension and try it out!!
  
  ## Future Updates 
- - Enabling users to upload their own videos for new-tab page
+ - Enabling users to upload their own videos for new-tab page via the UI of the extension itself
  - **Conditional overriding** On disabled state,  the new-tab page should point to the default user-defined new-tab extension page instead or hard overriding to default chrome page.
 
 ## Ending Notes
